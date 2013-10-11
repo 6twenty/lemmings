@@ -1,0 +1,6 @@
+body { margin: 0; padding: 0; background: black; }
+
+.lemming { height: 32px; width: 32px; position: absolute; top: 0; left: 0; background: left bottom no-repeat; overflow: hidden; }
+
+#step-box { height: 50px; width: 50px; background: #7e7e7e; margin: 150px auto 0 auto; }
+#middle-box { height: 100px; width: 600px; background: #7e7e7e; margin: 0 auto 0 auto; }
